@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/1-exercise-files/after/pluralsight-springcloud-m1-startup/pom.xml" />
+        <option value="$PROJECT_DIR$/2-exercise-files/after/pluralsight-springcloud-m2-configserver/pom.xml" />
+        <option value="$PROJECT_DIR$/2-exercise-files/after/pluralsight-springcloud-m2-config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/2-exercise-files/after/pluralsight-springcloud-m2-configserver-git/pom.xml" />
+        <option value="$PROJECT_DIR$/3-exercise-files/after/pluralsight-springcloud-m3-task/pom.xml" />
+        <option value="$PROJECT_DIR$/3-exercise-files/after/pluralsight-springcloud-m3-tasksink/pom.xml" />
+        <option value="$PROJECT_DIR$/3-exercise-files/after/pluralsight-springcloud-m3-taskintake/pom.xml" />
+        <option value="$PROJECT_DIR$/4-exercise-files/after/pluralsight-springcloud-m4-secureui/pom.xml" />
+        <option value="$PROJECT_DIR$/4-exercise-files/after/pluralsight-springcloud-m4-securecli/pom.xml" />
+        <option value="$PROJECT_DIR$/4-exercise-files/after/pluralsight-springcloud-m4-secureservice/pom.xml" />
+        <option value="$PROJECT_DIR$/4-exercise-files/after/pluralsight-springcloud-m4-secureauthserver/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/after/pluralsight-springcloud-m5-dataservice1/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/after/pluralsight-springcloud-m5-dataservice2/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/after/pluralsight-springcloud-m5-zipkinserver/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/after/pluralsight-springcloud-m5-customerservice/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/before/pluralsight-springcloud-m5-dataservice1/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/before/pluralsight-springcloud-m5-dataservice2/pom.xml" />
+        <option value="$PROJECT_DIR$/5-exercise-files/before/pluralsight-springcloud-m5-customerservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

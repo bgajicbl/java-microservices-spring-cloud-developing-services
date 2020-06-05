@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pluralsight-springcloud-m4-securecli" />
+        <module name="pluralsight-springcloud-m5-zipkinserver" />
+        <module name="pluralsight-springcloud-m5-customerservice (1)" />
+        <module name="pluralsight-springcloud-m3-task" />
+        <module name="pluralsight-springcloud-m2-configserver-git" />
+        <module name="pluralsight-springcloud-m5-customerservice" />
+        <module name="pluralsight-springcloud-m4-secureauthserver" />
+        <module name="pluralsight-springcloud-m2-config-client" />
+        <module name="pluralsight-springcloud-m4-secureui" />
+        <module name="pluralsight-springcloud-m3-tasksink" />
+        <module name="pluralsight-springcloud-m3-taskintake" />
+        <module name="pluralsight-springcloud-m1-startup" />
+        <module name="pluralsight-springcloud-m2-configserver" />
+        <module name="pluralsight-springcloud-m4-secureservice" />
+        <module name="pluralsight-springcloud-m5-dataservice2" />
+        <module name="pluralsight-springcloud-m5-dataservice1" />
+        <module name="pluralsight-springcloud-m5-dataservice2 (1)" />
+        <module name="pluralsight-springcloud-m5-dataservice1 (1)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="pluralsight-springcloud-m1-startup" target="1.8" />
+      <module name="pluralsight-springcloud-m2-config-client" target="1.8" />
+      <module name="pluralsight-springcloud-m2-configserver" target="1.8" />
+      <module name="pluralsight-springcloud-m2-configserver-git" target="1.8" />
+      <module name="pluralsight-springcloud-m3-task" target="1.8" />
+      <module name="pluralsight-springcloud-m3-taskintake" target="1.8" />
+      <module name="pluralsight-springcloud-m3-tasksink" target="1.8" />
+      <module name="pluralsight-springcloud-m4-secureauthserver" target="1.8" />
+      <module name="pluralsight-springcloud-m4-securecli" target="1.8" />
+      <module name="pluralsight-springcloud-m4-secureservice" target="1.8" />
+      <module name="pluralsight-springcloud-m4-secureui" target="1.8" />
+      <module name="pluralsight-springcloud-m5-customerservice" target="1.8" />
+      <module name="pluralsight-springcloud-m5-customerservice (1)" target="1.8" />
+      <module name="pluralsight-springcloud-m5-dataservice1" target="1.8" />
+      <module name="pluralsight-springcloud-m5-dataservice1 (1)" target="1.8" />
+      <module name="pluralsight-springcloud-m5-dataservice2" target="1.8" />
+      <module name="pluralsight-springcloud-m5-dataservice2 (1)" target="1.8" />
+      <module name="pluralsight-springcloud-m5-zipkinserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
